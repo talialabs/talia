@@ -1,6 +1,6 @@
 [package]
 name = "talia"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2024"
 description = "Talia: a desktop and server workspace for coding agents. Name reserved; in development."
 license = "MIT"
