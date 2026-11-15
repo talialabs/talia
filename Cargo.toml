@@ -6,6 +6,7 @@ description = "Talia: a desktop and server workspace for coding agents. Name res
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/TaliaHQ/talia"
+homepage = "https://talialabs.dev"
 keywords = ["agent", "coding", "desktop"]
 categories = ["development-tools"]
 
